@@ -86,7 +86,7 @@ The frontend will run on `http://localhost:3000`
 4. Update `MONGODB_URI` in backend `.env` file
 
 
-## 🔌 API Endpoints
+##  API Endpoints
 
 ### Notes API
 | Method | Endpoint | Description |
