@@ -13,7 +13,7 @@ const authRoute = require("./routes/auth");
 const app = express();
 
 app.use(cors({
-  origin: 'https://note-book-one-omega.vercel.app',
+  origin: true,
   credentials: true
 }));
 app.use(express.json());
