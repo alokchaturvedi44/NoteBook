@@ -146,9 +146,8 @@ curl -X POST http://localhost:2500/api/bookmarks \
 curl "http://localhost:2500/api/notes?q=test&tags=example"
 ```
 
-For detailed information, see:
-- [Backend README](./backend/README.md) - API documentation and backend setup
-- [Frontend README](./frontend/README.md) - UI documentation and frontend setup
+## Live link:
+[https://note-book-one-omega.vercel.app/](NoteBook)
 
 
 
